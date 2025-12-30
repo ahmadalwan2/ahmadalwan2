@@ -1,5 +1,33 @@
-# 💫 About Me:
-👋 Hi, I'm Ahmad!<br>🎨 Graphic Designer turned Developer — 2+ years in graphic design, now exploring web development.<br>🖌️ Skilled in UI/UX, branding, and visual storytelling.<br>🧠 Driven by empathy 🤝, research 🔍, and experimentation 🧪.<br>🚀 Focused on creating impactful user experiences and growing with the tech community.
+## 👤 About Me
+
+**Ahmad Alwan**  
+🎨 Graphic Designer | 💻 Aspiring Web Developer
+
+---
+
+### 🧾 Professional Summary
+Graphic Designer with over **2+ years of professional experience**, currently expanding skills into **Web Development**. Strong background in **UI/UX design, branding, and visual communication**, with a focus on creating **user-centered and functional digital solutions**.
+
+---
+
+### 🛠️ Expertise
+- 🎯 UI/UX Design  
+- 🎨 Branding & Visual Identity  
+- 🖌️ Visual Storytelling  
+- 💻 Front-End Web Fundamentals (HTML, CSS, JavaScript)
+
+---
+
+### 🧠 Work Approach
+- 🤝 Empathy-driven and user-centered design  
+- 🔍 Research-based problem solving  
+- 🔁 Iterative process and continuous improvement  
+
+---
+
+### 🚀 Career Objective
+To contribute in building **impactful, accessible, and scalable digital experiences**, while continuously growing as a **multidisciplinary professional** in design and technology.
+
 
 
 ## 🌐 Socials:
