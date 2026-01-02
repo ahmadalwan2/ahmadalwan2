@@ -1,7 +1,7 @@
 ## 👤 About Me
 
 **Ahmad Alwan**  
-Graphic Designer | UI/UX Designer | Web Developer
+<p> Graphic Designer | UI/UX Designer | Web Developer </p>
 ---
 
 ### 🧾 Professional Summary
